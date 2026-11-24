@@ -1,0 +1,5 @@
+# Code Review Checklist
+- [ ] Does the code run without errors?
+- [ ] Are names clear?
+- [ ] Is there a helpful commit message?
+- [ ] Is the feedback kind and specific?
