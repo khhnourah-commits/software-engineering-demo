@@ -1,1 +1,1 @@
-# software-engineering-demo
+# Software Engineering Demo - GitHub Presentation
