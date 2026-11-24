@@ -1,1 +1,2 @@
-# software-engineering-demo-reef
+# Software Engineering Demo - GitHub Presentation
+
