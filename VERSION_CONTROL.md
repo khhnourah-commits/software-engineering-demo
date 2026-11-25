@@ -4,7 +4,7 @@ Version control records every single change made to the project. This allows the
 who changed what, when, and why. It also allows them to go back to an older version if needed.
 
 
-## Branches
+## What Is a Branch?
 
 A branch is a separate copy of the project where you can work on it without altering the main branch.
 
